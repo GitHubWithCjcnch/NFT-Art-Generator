@@ -10,7 +10,7 @@ const template = `
 <!-- eyes -->
 <!-- nose -->
 <!-- mouth -->
-</svg>git
+</svg>
 `
 
 
